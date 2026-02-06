@@ -22,23 +22,22 @@ This project demonstrates core React concepts such as state management, conditio
 - **Tailwind CSS**
 - **Vite / Create React App** (depending on your setup)
 
----
+```
 
 ## 📂 Project Structure
 
 counter-app/
 ├── public/
-├── src/
-│   ├── components/
-│   │   └── Counter.jsx
+├── src/   
 │   ├── App.jsx
+│   ├── App.css
 │   ├── index.css
 │   └── main.jsx
 ├── package.json
 ├── tailwind.config.js
 └── README.md
 
----
+```
 
 ## 🧩 Key Concepts Used
 
