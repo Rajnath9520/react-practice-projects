@@ -8,18 +8,18 @@ A modern, responsive todo application built with React and Tailwind CSS. Feature
 
 ## ✨ Features
 
-- ✅ **Add, Edit, and Delete Tasks** - Full CRUD operations for task management
-- 🎯 **Task Filtering** - Filter by All, Pending, or Completed tasks
-- 💾 **Local Storage** - Automatically saves tasks to browser storage
-- 📊 **Task Statistics** - Real-time count of total, completed, and pending tasks
-- 🎨 **Modern UI** - Clean, professional design with gradient backgrounds
-- 📱 **Responsive Design** - Works seamlessly on desktop, tablet, and mobile
-- ⌨️ **Keyboard Shortcuts** - Press Enter to add tasks quickly
-- 🗑️ **Bulk Actions** - Clear all completed tasks with one click
-- ✏️ **Inline Editing** - Edit tasks directly with save/cancel options
-- 🌈 **Smooth Animations** - Polished transitions and hover effects
+-  **Add, Edit, and Delete Tasks** - Full CRUD operations for task management
+-  **Task Filtering** - Filter by All, Pending, or Completed tasks
+-  **Local Storage** - Automatically saves tasks to browser storage
+-  **Task Statistics** - Real-time count of total, completed, and pending tasks
+-  **Modern UI** - Clean, professional design with gradient backgrounds
+-  **Responsive Design** - Works seamlessly on desktop, tablet, and mobile
+-  **Keyboard Shortcuts** - Press Enter to add tasks quickly
+-  **Bulk Actions** - Clear all completed tasks with one click
+-  **Inline Editing** - Edit tasks directly with save/cancel options
+-  **Smooth Animations** - Polished transitions and hover effects
 
-## 🚀 Demo
+##  Demo
 
 ![App Screenshot](image.png)
 
@@ -34,7 +34,7 @@ A modern, responsive todo application built with React and Tailwind CSS. Feature
 
 1. **Clone the repository**
 ```bash
-   git clone https://github.com/yourusername/react-core-projects/02-ToDo.git
+   git clone https://github.com/Rajnaths9520/react-core-projects.git
    cd 02-ToDo
 ```
 
