@@ -4,7 +4,6 @@ A modern, visually stunning React component for fetching and displaying user dat
 
 ![React](https://img.shields.io/badge/React-18+-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 ## 🎨 Features
 
@@ -29,7 +28,11 @@ A modern, visually stunning React component for fetching and displaying user dat
 - **Error Recovery**: Robust try-catch error handling
 - **Loading States**: Clear feedback during data fetching
 
-## 📦 Installation
+<img width="1774" height="899" alt="fetching Users" src="https://github.com/user-attachments/assets/11076d20-9d65-4e69-a42c-1b65e7046fb7" />
+<img width="1756" height="874" alt="manually fetching" src="https://github.com/user-attachments/assets/7a52a481-0809-4fef-acde-8215c65ab9fc" />
+<img width="1709" height="870" alt="manually fetched" src="https://github.com/user-attachments/assets/dd6c18ea-716a-4d72-83c7-17b3355a738b" />
+
+
 
 ### Prerequisites
 - React 18+
